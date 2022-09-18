@@ -29,6 +29,88 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.logotext{
+	/* border:#222 solid 2px; */
+	height:28px;
+	width:150px;
+	font-size: 15px;
+	padding-left: .5rem;;
+
+}
+.techlogocontainer1{
+	/* border:red 2px solid; */
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	height:70px;
+
+}
+.techlogo{
+/* border:purple 2px solid; */
+	width:60px;
+	height:60px;
+}
+
+.resumeTitle{
+	/* border:purple 2px solid; */
+	margin-top: 2rem;;
+	/* border-bottom: #888 2px solid; */
+}
+.container1{
+	/* border:red 2px solid; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#listing {
+	margin:0;
+	padding-left: 0;
+	border: red 2px solid;
+	list-style: none;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+#listing li {
+	margin-right: 20px;
+
+}
+/* .icon.brands.alt.fa-github{
+	padding-left: 0;
+	margin-left: 0;
+} */
+
+
+/* .container1 h3:before {
+	position: absolute;
+	width: 138px;
+	height: 1px;
+	background-color: black;
+	bottom: -10px;
+	left: 50%;
+	transform: translateX(-50%);
+	content: '';
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
 	line-height: 1;
 }
@@ -36,6 +118,8 @@ body {
 ol, ul {
 	list-style: none;
 }
+
+
 
 blockquote, q {
 	quotes: none;
@@ -2618,6 +2702,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
+
+			margin-top:2.5rem;
 			background-color: #4acaa8;
 			color: #ffffff !important;
 		}
