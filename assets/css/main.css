@@ -52,6 +52,10 @@ footer, header, hgroup, menu, nav, section {
 	height:60px;
 }
 
+.techlogo1{
+	width:80px;
+	height:70px;
+}
 .resumeTitle{
 	/* border:purple 2px solid; */
 	margin-top: 2rem;;
