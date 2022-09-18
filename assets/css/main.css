@@ -78,6 +78,11 @@ footer, header, hgroup, menu, nav, section {
 	margin-right: 20px;
 
 }
+
+.tech-icon i {
+	font-size: 80px;
+}
+
 /* .icon.brands.alt.fa-github{
 	padding-left: 0;
 	margin-left: 0;
