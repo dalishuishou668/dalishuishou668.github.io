@@ -67,7 +67,7 @@ footer, header, hgroup, menu, nav, section {
 #listing {
 	margin:0;
 	padding-left: 0;
-	border: red 2px solid;
+	/* border: red 2px solid; */
 	list-style: none;
 	display: flex;
 	justify-content: flex-start;
