@@ -52,6 +52,10 @@ footer, header, hgroup, menu, nav, section {
 	height:60px;
 }
 
+.techlogo1{
+	width:80px;
+	height:70px;
+}
 .resumeTitle{
 	/* border:purple 2px solid; */
 	margin-top: 2rem;;
@@ -78,6 +82,11 @@ footer, header, hgroup, menu, nav, section {
 	margin-right: 20px;
 
 }
+
+.tech-icon i {
+	font-size: 80px;
+}
+
 /* .icon.brands.alt.fa-github{
 	padding-left: 0;
 	margin-left: 0;
